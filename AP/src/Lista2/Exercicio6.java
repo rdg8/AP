@@ -37,7 +37,7 @@ public class Exercicio6 {
             while(i<5);
                 
             System.out.println("O aluno mais velho é: " +Nome+ 
-                    "\n" +Idade+"\n" +Sexo );
+                    "\n Idade: " +Idade+"\n Sexo: " +Sexo );
         
         
         
