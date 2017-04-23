@@ -15,11 +15,8 @@ public class Exercicio10 {
         double soma=1;
         
         
-        for(int i=2;i<=20;i++){
-            double n = 1/i;
-            soma=soma+n;
-            System.out.println( i);
-            System.out.println( n);
+        for(double i=2;i<=20;i++){
+            soma=soma+(1/i);
         }
         System.out.println(soma);
         
