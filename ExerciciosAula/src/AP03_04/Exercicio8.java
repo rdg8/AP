@@ -24,7 +24,7 @@ public class Exercicio8 {
                 double valor = 100*(Math.pow((1 + 0.05),2));;
                 System.out.println("Valor a ser pago é: R$"+ valor);
                 break;
-            case "março":
+            case "marco":
                 valor = 100*(Math.pow((1 + 0.05),3));
                 //F = P.(1 + i)n
                 System.out.println("Valor a ser pago é: R$"+ valor);

@@ -22,6 +22,7 @@ public class Exercicio5 {
                 i++;
             }
             while(i<=10);
+                    
             
             
         }
