@@ -42,6 +42,12 @@ public class Exercicio5 {
         else{
             maior=raizN;      
         }
+        if(raizP>raizN){
+            maior=raizP;
+        }             
+        else{
+            maior=raizN;      
+        }
         return maior;
     }
     public static void main(String[] args) {
