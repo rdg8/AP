@@ -41,7 +41,7 @@ public class Exercicio12 {
     public static void main(String[] args) {
         System.out.print("Sexo: ");
         String sexo=sexo();
-        System.out.print("Altura: ");
+        System.out.print("Altura em metros: ");
         double altura=altura();
         double ideal=pesoideal(altura, sexo);
         imprimir(ideal);

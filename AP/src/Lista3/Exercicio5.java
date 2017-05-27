@@ -65,7 +65,7 @@ public class Exercicio5 {
             imprimir(maior);
         }
         else{
-            System.out.println("Não há Raizes reais, Delta=-1");
+            System.out.println("Não há Raizes reais, Resultado=-1");
         }       
     }
     
